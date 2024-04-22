@@ -3,7 +3,6 @@ import multiprocessing
 import decimal
 import time
 import random
-import random
 
 decimal.getcontext().prec = 500
 
